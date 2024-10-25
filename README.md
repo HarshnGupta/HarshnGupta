@@ -22,6 +22,33 @@ Currently in my final year of B.Tech in Computer Science, I am a software develo
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 🛠️ Development Tools
+
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
+</a>
+<a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" />
+</a>
+<a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/netbeans.png" alt="NetBeans" />
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" />
+</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" />
+</a>
+<a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="Dev C++" />
+</a>
+
 
 ## 🌐 Connect with me
 [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/HarshGupta)  
