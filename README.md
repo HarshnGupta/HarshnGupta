@@ -2,6 +2,8 @@
 
 **Software Developer** | **B.Tech (CSE)** | **Passionate about Innovation and Problem-Solving**  
 
+<img src="https://github.com/HarshnGupta/HarshnGupta/blob/2a9c66fa9cf138260e1258ccb13344f07835aa6e/Full%20Stack%20Developer%20%20Software%20Developer%20(7).gif" width="100%" height="300">
+
 Currently in my final year of B.Tech in Computer Science, I am a software developer proficient in Java, HTML, CSS, JavaScript, and Python. I'm presently working on an LMS (Learning Management System) project to streamline educational processes and enhance user experience. I am always eager to learn, collaborate, and apply my skills to meaningful projects.
 
 ## 💼 Skills
