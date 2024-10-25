@@ -21,6 +21,8 @@ Currently in my final year of B.Tech in Computer Science, I am a software develo
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🛠️ Development Tools
 
@@ -36,10 +38,6 @@ Currently in my final year of B.Tech in Computer Science, I am a software develo
 <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" />
 </a>
-<a href="https://netbeans.apache.org/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/netbeans.png" alt="NetBeans" />
-</a>
-
 <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" />
 </a>
