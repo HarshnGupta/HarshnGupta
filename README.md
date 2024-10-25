@@ -39,6 +39,7 @@ Currently in my final year of B.Tech in Computer Science, I am a software develo
 <a href="https://netbeans.apache.org/" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/netbeans.png" alt="NetBeans" />
 </a>
+
 <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" />
 </a>
